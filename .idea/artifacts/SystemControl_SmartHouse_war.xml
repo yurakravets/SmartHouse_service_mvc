@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SystemControl_SmartHouse:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SystemControl_SmartHouse-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SystemControl_SmartHouse:war exploded" />
+    </root>
+  </artifact>
+</component>
